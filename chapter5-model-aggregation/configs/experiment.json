@@ -1,0 +1,23 @@
+{
+  "output_root": "../outputs",
+  "training": {
+    "learning_rate": 0.0001,
+    "batch_size": 32,
+    "epochs": 50,
+    "patience": 10,
+    "seed": 42,
+    "num_workers": 0,
+    "device": "auto",
+    "pretrained": true,
+    "difficulty_coefficient": 1.0,
+    "epsilon": 1e-12
+  },
+  "datasets": {
+    "LC25000": {"root": "D:/datasets/LC25000"},
+    "UC": {"root": "D:/datasets/UC"},
+    "PlantVillage": {"root": "D:/datasets/PlantVillage"},
+    "AIDER": {"root": "D:/datasets/AIDER"},
+    "Animals": {"root": "D:/datasets/Animals"},
+    "CMI5": {"root": "D:/datasets/CMI5", "groups_csv": null}
+  }
+}
