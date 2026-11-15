@@ -23,5 +23,3 @@ python main.py all --dataset CMI5
 ```powershell
 python main.py --help
 ```
-
-第五章使用 torchvision 官方模型，实现 M1至M8 以及 CMI5 上 A1至A7 的消融实验。评估结果包含训练准确率、训练损失、测试准确率、测试损失、Precision、Recall、F1和AUC。
