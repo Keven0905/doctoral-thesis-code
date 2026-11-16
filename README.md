@@ -4,8 +4,8 @@
 
 | 子项目 | 内容 | 状态 |
 |---|---|---|
-| chapter3-hyperparameter-optimization | 超参数优化 | 待补充 |
-| chapter4-activation-fusion | 激活函数融合 | 待补充 |
+| chapter3-hyperparameter-optimization | 超参数优化 | 已上传 |
+| chapter4-activation-fusion | 激活函数融合 | 已上传 |
 | chapter5-model-aggregation | 异构模型聚合与模糊聚合 | 已上传 |
 
 ## 第五章运行
